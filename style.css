@@ -1,5 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
+    font-family: "Source Sans Pro", serif;
+    font-size: 18px;
+}
+
 .container {
     width: 1024px;
     margin: 0 auto;
-    background: linear-gradient();
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+ol {
+    padding-left: 20px;
+    
+}
+
+a {
+    color: mediumseagreen;
+}
+
+a:hover {
+    color: green; 
 }
