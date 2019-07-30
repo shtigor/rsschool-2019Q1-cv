@@ -7,6 +7,7 @@
 		* https://shtigor.gitlab.io/htmlacademy/ ([Git](https://gitlab.com/shtigor/htmlacademy))
 		* https://shtigor.gitlab.io/the_modernist/ ([Git](https://gitlab.com/shtigor/the_modernist))
 		* https://shtigor.github.io/hexal/ ([Git](https://github.com/shtigor/hexal))
+		* https://shtigor.github.io/tributepageazgur/ ([Git](https://github.com/shtigor/tributepageazgur)) + responsive
 	* **Python**
 		* web scraper (Scraper was taken data, pictures and save in JSON or DB)
 		* neural network which recognize hand writed numbers
